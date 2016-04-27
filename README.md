@@ -5,8 +5,7 @@ The purpose of this project is to make it as easy as possible to set up a new He
 ## Getting Started / Installation Instructions
 
 1) Create an [AWS Account](http://aws.amazon.com/).  
-2) On Mac/Linux, `pip install awscli`. Windows, download executable from [here](http://aws.amazon.com/cli/).  
-2.5) Configure the aws CLI with `aws configure`  
+2) Install and configure the AWS Command Line Interface. Info [here](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html) and [here](http://docs.aws.amazon.com/cli/latest/userguide/installing.html).  
 3) Make sure [NodeJS](https://nodejs.org/) is installed.  
 4) Go to the [Amazon Developer Portal](https://developer.amazon.com/edw/home.html). Click "Get Started" with Alexa Skills Kit.  
 5) In a separate tab, go to the [Lambda Function Portal](https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions) on AWS.  
